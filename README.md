@@ -1,6 +1,6 @@
 # Gender Detector
 
-![Gender Detector]()
+![Gender Detector](https://raw.githubusercontent.com/alexrony21/Gender-Detector/refs/heads/main/Gender_Detector.png)
 
 ## Main Features
 1. **Gender Prediction from Names** : Predicts gender based on first and last names using intelligent analysis of uploaded data.
